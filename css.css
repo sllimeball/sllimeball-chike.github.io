@@ -1,0 +1,45 @@
+body {
+	background-color: black;
+	color:white;
+	font-size: 20px;
+}
+
+article {
+	color: white;
+	background-color: black;
+	margin-top:-3%;
+	margin-left: 30%;
+	margin-right: auto;
+	font-family:Times New Roman;
+	float:center;
+	font-size:17px;
+}
+
+aside {
+	margin-right: 65%;
+	color: white;
+	padding: 5px;
+	}
+		h1{text-align: center;
+			color: white;}
+				
+				.center {
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+					margin-bottom: 10px;
+					width: 80%;
+					float: left;
+				}
+				
+				table, th, td{
+					width: 100%;
+					text-align: center;
+					border: 1px solid white;
+					background-color: black;
+					color: white;
+					color: white;
+					table-layout: fixed;
+					font-size: 20px;
+				}
+				
